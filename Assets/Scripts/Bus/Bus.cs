@@ -34,4 +34,5 @@ public class BusBase
         this.door = door;
         this.color = color;
     }
+    //
 }
